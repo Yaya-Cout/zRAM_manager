@@ -2,7 +2,7 @@
 
 This is a simple script that will create and remove zRAM swap devices when needed.
 
-# Install
+## Install
 
 ```shell
 sudo apt-get install zram-config
